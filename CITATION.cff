@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use p8-dft-tuner in your research, please cite this software and the accompanying CPC article."
+title: "p8-dft-tuner: Portable Co-Scheduling and Blackwell Ozaki Advisor for CPU-GPU DFT"
+version: "1.1.0"
+date-released: "2026-11-25"
+license: "MIT"
+type: software
+repository-code: "https://github.com/ttthkim-hue/p8-dft-tuner"
+authors:
+  - family-names: Kim
+    given-names: Tae-Hyung
+    email: ttthkim@gmail.com
+    orcid: "https://orcid.org/0009-0003-5047-7501"
+    affiliation: "Korea Institute of Limestone and Advanced Materials"
+  - family-names: Kim
+    given-names: Jin-Kyeom
+    email: jingyeom0825@kmou.ac.kr
+    orcid: "https://orcid.org/0000-0003-0824-2373"
+    affiliation: "Department of Ocean Advanced Materials Convergence Engineering, National Korea Maritime & Ocean University"
+keywords:
+  - Quantum ESPRESSO
+  - Blackwell GPU
+  - CUDA 13 Ozaki Scheme
+  - Threadripper SMT Topology
+  - Heterogeneous CPU-GPU Scheduling
